@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="pls_check_your_network">网络请求失败，请稍后再试</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/small_image_failed" android:maxLevel="0" />
+    <item android:drawable="@drawable/video_item_count_normal" android:maxLevel="1" />
+</level-list>
